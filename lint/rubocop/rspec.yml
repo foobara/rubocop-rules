@@ -13,3 +13,6 @@ RSpec/MultipleMemoizedHelpers:
 
 RSpec/NestedGroups:
   Enabled: false
+
+RSpec/Focus:
+  Enabled: <%= ENV["CI"] == "true" %>
