@@ -48,3 +48,7 @@ RSpec/SpecFilePathFormat:
 # where is something mentioning Rails coming from?? Built into the rspec cops?
 RSpec/Rails/HaveHttpStatus:
   Enabled: false
+
+RSpec/RemoveConst:
+  Exclude:
+    - 'spec/**/*'
