@@ -16,21 +16,11 @@ Gem::Specification.new do |spec|
 
   spec.required_ruby_version = ">= 3.2"
 
-  spec.files = Dir.chdir(__dir__) do
-    `git ls-files -z`.split("\x0").reject do |f|
-      (File.expand_path(f) == __FILE__) ||
-        f.start_with?(*%w[
-                        .github
-                        .gitignore
-                        .ruby-version
-                        CHANGELOG.md
-                        Gemfile
-                        Gemfile.lock
-                        Rakefile
-                        README.md
-                      ])
-    end
-  end
+  spec.files = Dir[
+     "rules/**/*.yml",
+     ".rubocop.yml",
+     "LICENSE.txt"
+   ]
 
   spec.add_dependency "rubocop"
   spec.add_dependency "rubocop-rspec"
