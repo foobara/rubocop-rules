@@ -1,0 +1,4 @@
+# Would be nice to turn this back on but recent changes try to parse the version number
+# but we load it dynamically from .ruby-version and that breaks rubocop.
+Gemspec/RequiredRubyVersion:
+  Enabled: false
