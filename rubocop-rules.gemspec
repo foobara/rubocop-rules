@@ -1,8 +1,8 @@
-version = "0.0.1".freeze
+require_relative "version"
 
 Gem::Specification.new do |spec|
   spec.name = "foobara-rubocop-rules"
-  spec.version = version
+  spec.version = Foobara::RubocopRules::VERSION
   spec.authors = ["Miles Georgi"]
   spec.email = ["azimux@gmail.com"]
 
@@ -19,6 +19,7 @@ Gem::Specification.new do |spec|
   spec.files = Dir[
      "rules/**/*.yml",
      ".rubocop.yml",
+     "version.rb",
      "LICENSE.txt"
    ]
 

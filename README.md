@@ -4,7 +4,13 @@ Just a bunch of linting rules shared across various Foobara projects.
 
 ## Installation
 
-TODO
+Add it to your Gemfile or .gemspec and add the following to your .rubocopy.yml file:
+
+```yaml
+inherit_gem:
+  foobara-rubocop-rules:
+    - rules/*
+```
 
 ## Contributing
 
