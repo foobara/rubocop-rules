@@ -8,7 +8,10 @@ Gem::Specification.new do |spec|
 
   spec.summary = "Common rubocop rules used in various foobara projects."
   spec.homepage = "https://github.com/foobara/rubocop-rules"
-  spec.license = "MIT"
+
+  # Equivalent to SPDX License Expression: Apache-2.0 OR MIT
+  spec.license = "Apache-2.0 OR MIT"
+  spec.licenses = ["Apache-2.0", "MIT"]
 
   spec.metadata["homepage_uri"] = spec.homepage
   spec.metadata["source_code_uri"] = spec.homepage
