@@ -23,7 +23,8 @@ Gem::Specification.new do |spec|
      "rules/**/*.yml",
      ".rubocop.yml",
      "version.rb",
-     "LICENSE.txt"
+     "LICENSE*.txt",
+     "CHANGELOG.md"
    ]
 
   spec.add_dependency "rubocop"
