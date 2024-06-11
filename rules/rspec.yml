@@ -10,10 +10,6 @@ RSpec/ExampleLength:
 RSpec/ExpectInHook:
   Enabled: false
 
-# Deprecated and wonky
-RSpec/FilePath:
-  Enabled: false
-
 RSpec/Focus:
   Enabled: <%= ENV["CI"] == "true" %>
 
@@ -45,10 +41,6 @@ RSpec/NotToNot:
 # Would be really nice to turn this on if we can exclude namespaces like Foobara so we don´t have to have foobara/
 # prefixing every path.
 RSpec/SpecFilePathFormat:
-  Enabled: false
-
-# where is something mentioning Rails coming from?? Built into the rspec cops?
-RSpecRails/HaveHttpStatus:
   Enabled: false
 
 RSpec/RemoveConst:

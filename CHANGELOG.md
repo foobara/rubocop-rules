@@ -1,3 +1,7 @@
+## [0.0.3] - 2024-06-11
+
+* Bump rubocop-rspec and other dependencies
+
 ## [0.0.2] - 2024-05-30
 
 * Add Apache-2.0 license
