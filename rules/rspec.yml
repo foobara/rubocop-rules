@@ -46,3 +46,6 @@ RSpec/SpecFilePathFormat:
 RSpec/RemoveConst:
   Exclude:
     - 'spec/**/*'
+
+RSpec/ExpectInLet:
+  Enabled: false

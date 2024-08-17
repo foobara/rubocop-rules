@@ -1,3 +1,8 @@
+## [0.0.4] - 2024-08-15
+
+* Bump dependencies
+* Disable RSpec/ExpectInLet
+
 ## [0.0.3] - 2024-06-11
 
 * Bump rubocop-rspec and other dependencies
