@@ -1,6 +1,9 @@
+## [0.0.5] - 2024-11-30
+
+* Turn off SafeNavigationChainLength
+
 ## [0.0.4] - 2024-08-15
 
-* Bump dependencies
 * Disable RSpec/ExpectInLet
 
 ## [0.0.3] - 2024-06-11
