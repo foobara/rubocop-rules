@@ -1,5 +1,7 @@
+require_relative "version"
+
 source "https://rubygems.org"
-ruby "3.2.2"
+ruby Foobara::RubocopRules::MINIMUM_RUBY_VERSION
 
 gemspec
 

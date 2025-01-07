@@ -1,3 +1,7 @@
+## [0.0.6] - 2025-01-07
+
+- Bump Ruby to 3.4.1
+
 ## [0.0.5] - 2024-11-30
 
 * Turn off SafeNavigationChainLength
