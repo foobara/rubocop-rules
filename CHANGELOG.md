@@ -1,3 +1,8 @@
+## [0.0.7] - 2025-02-16
+
+- Use plugins: instead of require: where possible to eliminate warnings
+- Bump to Ruby 3.4.2
+
 ## [0.0.6] - 2025-01-07
 
 - Bump Ruby to 3.4.1
