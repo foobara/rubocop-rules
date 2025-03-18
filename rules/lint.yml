@@ -14,3 +14,6 @@ Lint/UnusedBlockArgument:
 Lint/UnusedMethodArgument:
   AutoCorrect: false
   AllowUnusedKeywordArguments: true
+
+Lint/UselessAssignment:
+  AutoCorrect: false

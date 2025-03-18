@@ -1,3 +1,7 @@
+## [0.0.8] - 2025-03-18
+
+- Turn off annoying useless assignment autocorrect
+
 ## [0.0.7] - 2025-02-16
 
 - Use plugins: instead of require: where possible to eliminate warnings
