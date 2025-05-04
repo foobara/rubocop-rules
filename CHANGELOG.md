@@ -1,3 +1,7 @@
+## [0.0.9] - 2025-05-03
+
+- Let's just use normal arrays instead of %i and %w to reduce the amount of syntax in-use
+
 ## [0.0.8] - 2025-03-18
 
 - Turn off annoying useless assignment autocorrect

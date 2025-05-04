@@ -67,3 +67,10 @@ Style/StringLiteralsInInterpolation:
 
 Style/SafeNavigationChainLength:
   Enabled: false
+
+# turning these two off just to allow people to think about fewer aspects of Ruby syntax
+Style/SymbolArray:
+  EnforcedStyle: brackets
+
+Style/WordArray:
+  EnforcedStyle: brackets
