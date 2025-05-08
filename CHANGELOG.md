@@ -1,3 +1,7 @@
+## [0.0.10] - 2025-05-07
+
+- Disable exception for spacing around ** operator
+
 ## [0.0.9] - 2025-05-03
 
 - Let's just use normal arrays instead of %i and %w to reduce the amount of syntax in-use
