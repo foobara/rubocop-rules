@@ -1,7 +1,7 @@
 Naming/AccessorMethodName:
   Enabled: false
 
-Naming/PredicateName:
+Naming/PredicatePrefix:
   Enabled: false
 
 Naming/VariableNumber:

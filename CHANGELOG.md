@@ -1,3 +1,9 @@
+## [1.0.0] - 2025-06-06
+
+- Fix renamed Naming/PredicatePrefix
+- Bump to version 1.0.0 because why not
+- Bump to Ruby 3.4.3
+
 ## [0.0.10] - 2025-05-07
 
 - Disable exception for spacing around ** operator
