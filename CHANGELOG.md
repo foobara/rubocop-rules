@@ -1,3 +1,7 @@
+## [1.0.1] - 2025-08-15
+
+- Disable Style/MultipleComparison to allow for some potential optimizations
+
 ## [1.0.0] - 2025-06-06
 
 - Fix renamed Naming/PredicatePrefix
