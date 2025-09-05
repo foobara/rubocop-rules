@@ -31,7 +31,7 @@ Style/IfUnlessModifier:
   Enabled: false
 
 Style/Lambda:
-  EnforcedStyle: literal
+  Enabled: false
 
 Style/MultipleComparison:
   Enabled: false
@@ -61,19 +61,16 @@ Style/SoleNestedConditional:
   Enabled: false
 
 Style/StringLiterals:
-  Enabled: true
-  EnforcedStyle: double_quotes
+  Enabled: false
 
 Style/StringLiteralsInInterpolation:
-  Enabled: true
-  EnforcedStyle: double_quotes
+  Enabled: false
 
 Style/SafeNavigationChainLength:
   Enabled: false
 
-# turning these two off just to allow people to think about fewer aspects of Ruby syntax
 Style/SymbolArray:
-  EnforcedStyle: brackets
+  Enabled: false
 
 Style/WordArray:
-  EnforcedStyle: brackets
+  Enabled: false

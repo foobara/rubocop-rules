@@ -1,3 +1,7 @@
+## [1.0.2] - 2025-09-05
+
+- Disable Style/Lambda, StringLiterals..., SymbolArray, WordArray
+
 ## [1.0.1] - 2025-08-15
 
 - Disable Style/MultipleComparison to allow for some potential optimizations
