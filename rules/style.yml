@@ -48,6 +48,9 @@ Style/NumericPredicate:
 Style/OptionalBooleanParameter:
   Enabled: false
 
+Style/QuotedSymbols:
+  Enabled: false
+
 Style/RedundantFetchBlock:
   Enabled: false
 

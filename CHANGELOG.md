@@ -1,3 +1,7 @@
+## [1.0.3] - 2025-09-07
+
+- Disable Style/QuotedSymbols
+
 ## [1.0.2] - 2025-09-05
 
 - Disable Style/Lambda, StringLiterals..., SymbolArray, WordArray
