@@ -1,3 +1,7 @@
+## [1.0.4] - 2025-10-15
+
+- Disable Style/NegatedIf, PerlBackrefs, and ClassEqualityComparison
+
 ## [1.0.3] - 2025-09-07
 
 - Disable Style/QuotedSymbols

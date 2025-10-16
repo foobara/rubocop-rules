@@ -11,6 +11,9 @@ Style/CaseEquality:
 Style/ClassAndModuleChildren:
   Enabled: false
 
+Style/ClassEqualityComparison:
+  Enabled: false
+
 Style/Documentation:
   Enabled: false
 
@@ -39,6 +42,9 @@ Style/MultipleComparison:
 Style/MultilineBlockChain:
   Enabled: false
 
+Style/NegatedIf:
+  Enabled: false
+
 Style/Next:
   Enabled: false
 
@@ -46,6 +52,9 @@ Style/NumericPredicate:
   Enabled: false
 
 Style/OptionalBooleanParameter:
+  Enabled: false
+
+Style/PerlBackrefs:
   Enabled: false
 
 Style/QuotedSymbols:
