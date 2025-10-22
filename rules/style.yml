@@ -20,6 +20,9 @@ Style/Documentation:
 Style/EmptyMethod:
   EnforcedStyle: expanded
 
+Style/FetchEnvVar:
+  Enabled: false
+
 Style/FrozenStringLiteralComment:
   SafeAutoCorrect: true
   EnforcedStyle: never
