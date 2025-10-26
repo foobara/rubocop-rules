@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    foobara-rubocop-rules (1.0.5)
+    foobara-rubocop-rules (1.0.6)
       rubocop
       rubocop-rspec
 
@@ -9,7 +9,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     ast (2.4.3)
-    json (2.15.1)
+    json (2.15.2)
     language_server-protocol (3.17.0.5)
     lint_roller (1.1.0)
     parallel (1.27.0)

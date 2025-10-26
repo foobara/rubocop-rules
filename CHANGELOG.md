@@ -1,3 +1,7 @@
+## [1.0.6] - 2025-10-26
+
+- Disable RSpec/LetSetup
+
 ## [1.0.5] - 2025-10-22
 
 - Disable Style/FetchEnvVar
