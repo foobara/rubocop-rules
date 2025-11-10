@@ -1,3 +1,7 @@
+## [1.0.8] - 2025-11-10
+
+- disable Style/NumericLiterals
+
 ## [1.0.7] - 2025-11-10
 
 - Disable Lint/ItWithoutArgumentsInBlock

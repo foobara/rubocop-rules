@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    foobara-rubocop-rules (1.0.7)
+    foobara-rubocop-rules (1.0.8)
       rubocop
       rubocop-rspec
 

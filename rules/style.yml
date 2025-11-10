@@ -51,6 +51,9 @@ Style/NegatedIf:
 Style/Next:
   Enabled: false
 
+Style/NumericLiterals:
+  Enabled: false
+
 Style/NumericPredicate:
   Enabled: false
 
