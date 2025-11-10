@@ -1,3 +1,7 @@
+## [1.0.7] - 2025-11-10
+
+- Disable Lint/ItWithoutArgumentsInBlock
+
 ## [1.0.6] - 2025-10-26
 
 - Disable RSpec/LetSetup

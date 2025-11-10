@@ -5,6 +5,9 @@ Lint/AmbiguousBlockAssociation:
 Lint/EmptyClass:
   Enabled: false
 
+Lint/ItWithoutArgumentsInBlock:
+  Enabled: false
+
 Lint/Loop:
   Enabled: false
 
