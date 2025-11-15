@@ -20,3 +20,6 @@ Lint/UnusedMethodArgument:
 
 Lint/UselessAssignment:
   AutoCorrect: false
+
+Lint/Void:
+  AutoCorrect: false

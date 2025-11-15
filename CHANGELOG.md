@@ -1,6 +1,10 @@
+## [1.0.9] - 2025-11-15
+
+- Do not AutoCorrect Lint/Void to avoid inconvenience of IDE deleting constants in unfinished code
+
 ## [1.0.8] - 2025-11-10
 
-- disable Style/NumericLiterals
+- Disable Style/NumericLiterals
 
 ## [1.0.7] - 2025-11-10
 
