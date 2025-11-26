@@ -1,3 +1,7 @@
+## [1.0.10] -2025-11-25
+
+- Disable certain rules in test suites even if they are nested deeper in the project
+
 ## [1.0.9] - 2025-11-15
 
 - Do not AutoCorrect Lint/Void to avoid inconvenience of IDE deleting constants in unfinished code

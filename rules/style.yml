@@ -3,7 +3,7 @@ Style/BlockComments:
 
 Style/BlockDelimiters:
   Exclude:
-    - 'spec/**/*'
+    - '**/spec/**/*'
 
 Style/CaseEquality:
   Enabled: false
