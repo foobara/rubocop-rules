@@ -1,3 +1,7 @@
+## [1.0.11] - 2026-01-14
+
+- Disable RSpec/Output rule
+
 ## [1.0.10] -2025-11-25
 
 - Disable certain rules in test suites even if they are nested deeper in the project

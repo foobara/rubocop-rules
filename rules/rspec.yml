@@ -41,6 +41,9 @@ RSpec/NoExpectationExample:
 RSpec/NotToNot:
   EnforcedStyle: to_not
 
+RSpec/Output:
+  Enabled: false
+
 # Would be really nice to turn this on if we can exclude namespaces like Foobara so we don´t have to have foobara/
 # prefixing every path.
 RSpec/SpecFilePathFormat:
