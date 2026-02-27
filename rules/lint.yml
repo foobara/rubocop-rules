@@ -1,6 +1,5 @@
 Lint/AmbiguousBlockAssociation:
-  Exclude:
-    - '**/spec/**/*'
+  Enabled: false
 
 Lint/EmptyClass:
   Enabled: false

@@ -1,3 +1,7 @@
+## [1.0.12] - 2026-02-26
+
+- Disable Style/SelectByKind, Semicolon, and FormatString
+
 ## [1.0.11] - 2026-01-14
 
 - Disable RSpec/Output rule

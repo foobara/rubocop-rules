@@ -23,6 +23,9 @@ Style/EmptyMethod:
 Style/FetchEnvVar:
   Enabled: false
 
+Style/FormatString:
+  Enabled: false
+
 Style/FrozenStringLiteralComment:
   SafeAutoCorrect: true
   EnforcedStyle: never
@@ -75,6 +78,15 @@ Style/RegexpLiteral:
 Style/RescueStandardError:
   EnforcedStyle: implicit
 
+Style/SafeNavigationChainLength:
+  Enabled: false
+
+Style/SelectByKind:
+  Enabled: false
+
+Style/Semicolon:
+  Enabled: false
+
 Style/SoleNestedConditional:
   Enabled: false
 
@@ -82,9 +94,6 @@ Style/StringLiterals:
   Enabled: false
 
 Style/StringLiteralsInInterpolation:
-  Enabled: false
-
-Style/SafeNavigationChainLength:
   Enabled: false
 
 Style/SymbolArray:
