@@ -1,3 +1,7 @@
+## [1.0.13] - 2026-05-05
+
+- Disable Style/OneClassPerFile as well as FrozenStringLiteralComment
+
 ## [1.0.12] - 2026-02-26
 
 - Disable Style/SelectByKind, Semicolon, and FormatString

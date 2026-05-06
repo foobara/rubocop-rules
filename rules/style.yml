@@ -27,8 +27,7 @@ Style/FormatString:
   Enabled: false
 
 Style/FrozenStringLiteralComment:
-  SafeAutoCorrect: true
-  EnforcedStyle: never
+  Enabled: false
 
 Style/GuardClause:
   Enabled: false
@@ -61,6 +60,9 @@ Style/NumericPredicate:
   Enabled: false
 
 Style/OptionalBooleanParameter:
+  Enabled: false
+
+Style/OneClassPerFile:
   Enabled: false
 
 Style/PerlBackrefs:
