@@ -1,3 +1,8 @@
+## [1.1.0] - 2026-07-20
+
+- Support older versions of Ruby (>= 3.0.0)
+- Disable a few more rules to give more flexibility
+
 ## [1.0.13] - 2026-05-05
 
 - Disable Style/OneClassPerFile as well as FrozenStringLiteralComment

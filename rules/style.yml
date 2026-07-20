@@ -26,7 +26,13 @@ Style/FetchEnvVar:
 Style/FormatString:
   Enabled: false
 
+Style/FormatStringToken:
+  Enabled: false
+
 Style/FrozenStringLiteralComment:
+  Enabled: false
+
+Style/GlobalStdStream:
   Enabled: false
 
 Style/GuardClause:
@@ -65,6 +71,9 @@ Style/OptionalBooleanParameter:
 Style/OneClassPerFile:
   Enabled: false
 
+Style/PercentLiteralDelimiters:
+  Enabled: false
+
 Style/PerlBackrefs:
   Enabled: false
 
@@ -92,6 +101,9 @@ Style/Semicolon:
 Style/SoleNestedConditional:
   Enabled: false
 
+Style/SpecialGlobalVars:
+  Enabled: false
+
 Style/StringLiterals:
   Enabled: false
 
@@ -99,6 +111,9 @@ Style/StringLiteralsInInterpolation:
   Enabled: false
 
 Style/SymbolArray:
+  Enabled: false
+
+Style/TrailingCommaInArrayLiteral:
   Enabled: false
 
 Style/WordArray:
